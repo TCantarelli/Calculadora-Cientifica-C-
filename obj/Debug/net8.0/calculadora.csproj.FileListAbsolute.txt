@@ -1,0 +1,14 @@
+/home/cantarelli/Documents/teste/teste/obj/Debug/net8.0/calculadora.GeneratedMSBuildEditorConfig.editorconfig
+/home/cantarelli/Documents/teste/teste/obj/Debug/net8.0/calculadora.AssemblyInfoInputs.cache
+/home/cantarelli/Documents/teste/teste/obj/Debug/net8.0/calculadora.AssemblyInfo.cs
+/home/cantarelli/Documents/teste/teste/obj/Debug/net8.0/calculadora.csproj.CoreCompileInputs.cache
+/home/cantarelli/Documents/teste/teste/bin/Debug/net8.0/calculadora
+/home/cantarelli/Documents/teste/teste/bin/Debug/net8.0/calculadora.deps.json
+/home/cantarelli/Documents/teste/teste/bin/Debug/net8.0/calculadora.runtimeconfig.json
+/home/cantarelli/Documents/teste/teste/bin/Debug/net8.0/calculadora.dll
+/home/cantarelli/Documents/teste/teste/bin/Debug/net8.0/calculadora.pdb
+/home/cantarelli/Documents/teste/teste/obj/Debug/net8.0/calculadora.dll
+/home/cantarelli/Documents/teste/teste/obj/Debug/net8.0/refint/calculadora.dll
+/home/cantarelli/Documents/teste/teste/obj/Debug/net8.0/calculadora.pdb
+/home/cantarelli/Documents/teste/teste/obj/Debug/net8.0/calculadora.genruntimeconfig.cache
+/home/cantarelli/Documents/teste/teste/obj/Debug/net8.0/ref/calculadora.dll
